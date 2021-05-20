@@ -1,3 +1,5 @@
+# Ref: https://www.geeksforgeeks.org/mandelbrot-fractal-set-visualization-in-python/
+
 # Python code for Mandelbrot Fractal
 
 # Import necessary libraries
